@@ -1,21 +1,38 @@
 {
-  "name": "winter-dark-theme",
-  "displayName": "Winter Dark Theme",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.92.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Winter Dark Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Winter Dark Theme-color-theme.json"
-      }
-    ]
-  }
+	"name": "nafoet-themes",
+	"displayName": "Nafoet Themes",
+	"description": "",
+	"repository": {
+		"url": "https://github.com/nafoet/nafoet-themes"
+	},
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.92.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [{
+				"label": "Nafoet Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Nafoet_DarkTheme-color-theme.json"
+			},
+			{
+				"label": "Nafoet One Dark Monolisa",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Nafoet_OneDarkInspired-color-theme.json"
+			},
+			{
+				"label": "Nafoet Winter Is Coming Light Monolisa",
+				"uiTheme": "vs",
+				"path": "./themes/Nafoet_WinterIsComingLightInspired-color-theme.json"
+			},
+			{
+				"label": "Nafoet Winter Is Coming Dark Monolisa",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Nafoet_WinterIsComingDarkInspired-color-theme.json"
+			}
+		]
+	}
 }
