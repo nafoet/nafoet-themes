@@ -1,11 +1,16 @@
 {
 	"name": "nafoet-themes",
 	"displayName": "Nafoet Themes",
-	"description": "",
+	"description": "A collection of themes inspired by the ones found on monolisa.dev",
+	"author": {
+		"name": "Teofan Clipa",
+		"email": "c.teofan@gmail.com"
+	},
+	"publisher": "Teofan Clipa",
 	"repository": {
 		"url": "https://github.com/nafoet/nafoet-themes"
 	},
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.92.0"
 	},

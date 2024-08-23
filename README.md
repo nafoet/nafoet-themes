@@ -1,6 +1,6 @@
 ## Overview
 
-This repository contains a collection of Visual Studio Code (VSCode) themes inspired by the themes found on [Monolisa.dev](monolisa.dev). The themes are designed to offer a comfortable and visually appealing coding experience with a focus on readability and a balanced color scheme.
+This repository contains a collection of Visual Studio Code (VSCode) themes inspired by the themes found on [Monolisa.dev](https://monolisa.dev). The themes are designed to offer a comfortable and visually appealing coding experience with a focus on readability and a balanced color scheme.
 
 ## Themes
 
