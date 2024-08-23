@@ -1,0 +1,119 @@
+{
+	"name": "Winter is Coming Inspired Dark",
+	"type": "dark",
+	"colors": {
+		 "editor.background": "#1e1e1e",
+		 "editor.foreground": "#d6deeb",
+		 "editorCursor.foreground": "#9CDCFE",
+		 "editor.lineHighlightBackground": "#2b2b2b",
+		 "editorLineNumber.foreground": "#4B6479",
+		 "editor.selectionBackground": "#1e3b58",
+		 "editor.inactiveSelectionBackground": "#1e3b5833",
+		 "editor.wordHighlightBackground": "#2c313c1d",
+		 "editor.wordHighlightStrongBackground": "#2c313c1d",
+		 "editor.findMatchHighlightBackground": "#ffd33d44",
+		 "editorBracketMatch.background": "#263343",
+		 "editorBracketMatch.border": "#d6deeb",
+		 "editorWhitespace.foreground": "#3B5360",
+		 "editorIndentGuide.background1": "#3B5360",
+		 "editorIndentGuide.activeBackground1": "#d6deeb",
+		 "editorRuler.foreground": "#3B5360",
+		 "editorHoverWidget.background": "#011627",
+		 "editorHoverWidget.border": "#1e3b58",
+		 "sideBar.background": "#1e1e1e",
+		 "sideBar.foreground": "#d6deeb",
+		 "statusBar.background": "#011627",
+		 "statusBar.foreground": "#d6deeb",
+		 "titleBar.activeBackground": "#011627",
+		 "titleBar.activeForeground": "#d6deeb",
+		 "activityBar.background":"#1e1e1e",
+		 "breadcrumb.background":"#1e1e1e",
+		 "breadcrumb.activeSelectionForeground":"#d6deeb",
+		 "statusBar.border":"#343331",
+		 "statusBar.debuggingBackground":"#d14d41",
+		 "statusBar.noFolderBackground":"#1e1e1e"
+	},
+	"tokenColors": [
+		 {
+			  "scope": [
+					"comment",
+					"punctuation.definition.comment",
+					"string.comment"
+			  ],
+			  "settings": {
+					"foreground": "#637777",
+					"fontStyle": "italic"
+			  }
+		 },
+		 {
+			  "scope": [
+					"constant",
+					"entity.name.constant",
+					"variable.other.constant",
+					"variable.language"
+			  ],
+			  "settings": {
+					"foreground": "#c586c0"
+			  }
+		 },
+		 {
+			  "scope": [
+					"entity",
+					"entity.name",
+					"entity.name.type",
+					"entity.other.inherited-class"
+			  ],
+			  "settings": {
+					"foreground": "#82AAFF"
+			  }
+		 },
+		 {
+			  "scope": "keyword",
+			  "settings": {
+					"foreground": "#C792EA",
+					"fontStyle": "bold"
+			  }
+		 },
+		 {
+			  "scope": [
+					"storage",
+					"storage.type"
+			  ],
+			  "settings": {
+					"foreground": "#c586c0"
+			  }
+		 },
+		 {
+			  "scope": [
+					"string",
+					"punctuation.definition.string",
+					"string punctuation.section.embedded source"
+			  ],
+			  "settings": {
+					"foreground": "#C3E88D"
+			  }
+		 },
+		 {
+			  "scope": "support",
+			  "settings": {
+					"foreground": "#F78C6C"
+			  }
+		 },
+		 {
+			  "scope": [
+					"variable",
+					"variable.parameter"
+			  ],
+			  "settings": {
+					"foreground": "#F07178"
+			  }
+		 },
+		 {
+			  "scope": "invalid",
+			  "settings": {
+					"foreground": "#F07178",
+					"fontStyle": "underline"
+			  }
+		 }
+	]
+}

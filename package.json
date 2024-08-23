@@ -1,0 +1,21 @@
+{
+  "name": "winter-dark-theme",
+  "displayName": "Winter Dark Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Winter Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Winter Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
