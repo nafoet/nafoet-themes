@@ -6,11 +6,11 @@
 		"name": "Teofan Clipa",
 		"email": "c.teofan@gmail.com"
 	},
-	"publisher": "Teofan Clipa",
+	"publisher": "nafoet",
 	"repository": {
 		"url": "https://github.com/nafoet/nafoet-themes"
 	},
-	"version": "0.0.2",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.92.0"
 	},
@@ -37,6 +37,11 @@
 				"label": "Nafoet Winter Is Coming Dark Monolisa",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Nafoet_WinterIsComingDarkInspired-color-theme.json"
+			},
+			{
+				"label": "Nafoet Solarized Light Monolisa",
+				"uiTheme": "vs",
+				"path": "./themes/Nafoet_SolarizedLightInspired-color-theme.json"
 			}
 		]
 	}

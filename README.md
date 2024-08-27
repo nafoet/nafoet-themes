@@ -20,11 +20,16 @@ This repository contains a collection of Visual Studio Code (VSCode) themes insp
 1. Nafoet Winter Is Coming Light Monolisa
 ![Nafoet Winter Is Coming Light Monolisa](screenshots/NWIS-Light.png)
 
+2. Nafoet Solarized Light Monolisa
+![Nafoet Solarized Light Monolisa](screenshots/NS-Light.png)
+
 ## Installation
 
 ### Download the release package
 
 Go to the [release](https://github.com/nafoet/nafoet-themes/releases) page and download the latest release package.
+
+You can also find the latest release on [Open-VSX](https://open-vsx.org/extension/nafoet/nafoet-themes).
 
 Once downloaded the package:
 
