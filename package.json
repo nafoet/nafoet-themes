@@ -10,7 +10,7 @@
 	"repository": {
 		"url": "https://github.com/nafoet/nafoet-themes"
 	},
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"engines": {
 		"vscode": "^1.92.0"
 	},
@@ -42,6 +42,21 @@
 				"label": "Nafoet Solarized Light Monolisa",
 				"uiTheme": "vs",
 				"path": "./themes/Nafoet_SolarizedLightInspired-color-theme.json"
+			},
+			{
+				"label": "Nafoet Material Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Nafoet_Material_Dark.json"
+			},
+			{
+				"label": "Nafoet Material Light",
+				"uiTheme": "vs",
+				"path": "./themes/Nafoet_Material_Light.json"
+			},
+			{
+				"label": "Nafoet Pastel Water",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Nafoet_PastelWater_Dark.json"
 			}
 		]
 	}

@@ -2,6 +2,8 @@
 
 This repository contains a collection of Visual Studio Code (VSCode) themes inspired by the themes found on [Monolisa.dev](https://monolisa.dev). The themes are designed to offer a comfortable and visually appealing coding experience with a focus on readability and a balanced color scheme.
 
+Nafoet Pastel Water is a variant of the [Pastel Water Dark Hard](https://marketplace.visualstudio.com/items?itemName=AndreaCombette.PastelWater]) theme by **andreacombette**.
+
 ## Themes
 
 ### Dark
@@ -15,6 +17,12 @@ This repository contains a collection of Visual Studio Code (VSCode) themes insp
 3. Nafoet Winter Is Coming Dark Monolisa
 ![Nafoet Winter Is Coming Dark Monolisa](screenshots/NWIS-Dark.png)
 
+4. Nafoet Material Dark
+![Nafoet Material Dark](screenshots/NM-Dark.png)
+
+5. Nafoet Pastel Water
+![Nafoet Pastel Water](screenshots/N-PastelWater-Dark.png)
+
 ### Light
 
 1. Nafoet Winter Is Coming Light Monolisa
@@ -22,6 +30,9 @@ This repository contains a collection of Visual Studio Code (VSCode) themes insp
 
 2. Nafoet Solarized Light Monolisa
 ![Nafoet Solarized Light Monolisa](screenshots/NS-Light.png)
+
+3. Nafoet Material Light
+![Nafoet Material Light](screenshots/NM-Light.png)
 
 ## Installation
 
