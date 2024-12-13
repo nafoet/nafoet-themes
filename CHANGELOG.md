@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.6]
+
+- Updated some colors for  _Nafoet Pastel Water_
+
 ## [0.0.5]
 
 - Added new theme: _Nafoet Material_ with light and dark variants
